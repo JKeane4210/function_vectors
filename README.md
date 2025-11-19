@@ -1,4 +1,7 @@
-# Function Vectors in Large Language Models
+# Function Vectors in Large Language Models *Modified by Jonathan Keane for Deeper Analysis*
+
+***Note from Jonny:*** For my deeper analysis/explanation of what function vectors are and some exploration into how they are represented geometrically, please look at the notebook `notebooks/unpacking_fvs.ipynb`.
+
 ### [Project Website](https://functions.baulab.info) | [Arxiv Preprint](https://arxiv.org/abs/2310.15213) | [OpenReview](https://openreview.net/forum?id=AwyxtyMwaG)
 
 This repository contains data and code for the paper: [Function Vectors in Large Language Models](https://arxiv.org/pdf/2310.15213).

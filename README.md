@@ -1,4 +1,4 @@
-# Function Vectors in Large Language Models *Modified by Jonathan Keane for Deeper Analysis*
+# Function Vectors in Large Language Models *(Modified by Jonathan Keane for Deeper Analysis)*
 
 ***Note from Jonny:*** For my deeper analysis/explanation of what function vectors are and some exploration into how they are represented geometrically, please look at the notebook `notebooks/unpacking_fvs.ipynb`.
 
